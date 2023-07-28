@@ -42,7 +42,7 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 新添加网址导航数据
     icon: linecons-star
     links:
       - title: DTO
